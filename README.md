@@ -62,6 +62,6 @@ class Branded King():
 
 <h1> <img src="https://github.com/WCGKING/WCGKING/blob/main/resources/connect.gif" width="70px" style="border-radius: 50%"> ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ </h1>
 
- [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/telegram_icon.png" width="60px">](https://t.me/BRANDRD_21) [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/github_icon.png" width="60px">](https://github.com/WCGKING) [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/Instagram_icon.png" width="60px">](https://instagram.com/LOKESH_x07?igshid=YmMyMTA2M2Y=) [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/youtube_icon.png" width="60px">](https://youtube.com/@TrickyBranded)
+ [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/telegram_icon.png" width="60px">](https://t.me/BRANDRD_21) [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/github_icon.png" width="60px">](https://github.com/WCGKING) [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/Instagram_icon.png" width="60px">](https://instagram.com/LOKESH_x82?igshid=YmMyMTA2M2Y=) [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/youtube_icon.png" width="60px">](https://youtube.com/@TrickyBranded)
 
 [<img src="https://github.com/WCGKING/WCGKING/blob/main/resources/hr.gif"/>](https://github.com/WCGKING)
